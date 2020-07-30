@@ -17,19 +17,43 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-4">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Insight Data Science <span>May 2020 - present</span></h2>
+                        <ul><b>Data Engineering Fellow</b>
+                        <li>Built a tool <b>Personal Stock Broker</b> that helps retail investors to visualize the real-time happenings of the stock market deployed in AWS</li>
+                        <li>Leveraged Spark to process the data from Yahoo API and ingest into DynamoDB and to compute metrics</li> 
+                        <li>Calculated the change percent of the stock price and alerted user if the change percent is above the threshold set for his personal portfolio</li> 
+                        <li>Automated data pipeline using Airflow and created interactive visualizations using Python Dash in the frontend</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>All The Way Live Analytics <span>September 2019- Decemeber 2019</span></h2>
+                        <h2>All The Way Live Analytics <span>Sep 2019 - Dec 2019</span></h2>
                         <ul><b>Data Analyst Intern</b>
-                           <li>Altered <b>MATLAB</b> test session bucketing algorithm, for optimal utilization of host machines</li>
-                           <li>Created visualization using <b>D3.js</b> to detect abnormalities in host allocations across different platforms</li>
-                           <li>Optimized SQL queries which resulted in performance improvement by 10%</li>
-                           <li>Transformed Perl web services into Java REST APIs with better code organization, optimization, and readability</li>
-
-
+                           <li> Architected models to predict difference of home and away team scores in NBA by performing feature engineering</li>
+                           <li>Developed an API to scrape data in JSON format from different webpages and created pre-processing scripts to clean the data</li>
+                           <li>Hosted the model in AWS using EC2 and Kinesis by creating a streaming service to ingest the data for stream processing</li>
                         </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Master's Degree <span>Sep 2018 - May 2020</span></h2>
+                        <p>I have completed my Master's in <b>Data Analytics</b>  from <b>Northeastern University</b> with major subjects as Object-oriented programming, Computer organization and architecture, Computer Networks. During my time at school, I have developed interest in solving complex problems using technology which helped me to improve my analytical and problem solving skill.</p> 
                       </div>
                     </div>
                   </article>
@@ -39,7 +63,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Accenture <span>September 2016 - July 2018</span></h2>
+                        <h2>Accenture <span>Sep 2016 - Jul 2018</span></h2>
                         <ul><b>Big Data Engineer</b>
                            <li>Created a Data Lake in Hadoop by unifying data from different source systems (SQL Server, and Oracle DB) to HDFS using Sqoop</li>
                            <li>Performed claim processing for a health insurance client using Spark Batch Processing on more than 2 TB of customers claim data and ingested the results into Hive</li>
@@ -57,8 +81,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Education <span>June 2012- May 2016</span></h2>
-                        <p>I have completed my Bachelors in Electrical and Computer engineering  from <b>VIT University</b> with major subjects as Object-oriented programming, Computer organization and architecture, Computer Networks. During my time at school, I have developed interest in solving complex problems using technology which helped me to improve my analytical and problem solving skill.</p> 
+                        <h2>Bachelor's Degree <span>Jun 2012 - May 2016</span></h2>
+                        <p>I have completed my Bachelors in <b>Computer engineering</b>  from <b>Vellore Institute of Technology</b> with major subjects as Object-oriented programming, Computer organization and architecture, Computer Networks. During my time at school, I have developed interest in solving complex problems using technology which helped me to improve my analytical and problem solving skill.</p> 
                       </div>
                     </div>
                   </article>

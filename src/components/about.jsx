@@ -14,7 +14,7 @@ export default class About extends Component {
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>Hey there! I'm a Data Engineer Fellow at Insight Data Science. I'm a Master's graduate in Data Analytics at Northeastern University. I live in Boston. I've 2+ years of industry experience in the field of Data Science. I'm currently looking for full-time opportunities in the areas of Data Engineering and Machine Learning.</p>
-                    <p>I like to collect data and making it talk when asked right questions. Most of my work includes orchestrating the data pipelines and build scalable machine learing models. I love challenges that push me out of my comfort zone constantly and help me get a better understanding of the work I do.</p>
+                    <p>I like to collect data and making it talk when asked right questions. Most of my work includes orchestrating the data pipelines and build scalable machine learning models. I love challenges that push me out of my comfort zone constantly and help me get a better understanding of the work I do.</p>
                     <p>I love travelling and playing cricket. I'm a huge fan of M.S Dhoni. If you need anything from me, you know where to start :)</p>
                     </div>
                 </div>
