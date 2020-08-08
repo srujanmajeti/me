@@ -66,9 +66,9 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-phone3" />
                 </span>
                 <div className="desc">
                     <h3>Data Analytics</h3>
@@ -88,9 +88,9 @@ export default class About extends Component {
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-bulb" />
                 </span>
                 <div className="desc">
                     <h3>Data Vizualization</h3>
