@@ -61,7 +61,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Big Data</h3>
-                    <p>Familar with Big Data architecture for building distributed software platforms like Apache Hadoop and Spark. Utilized various open source technologies and cloud services to process the data efficiently and orchestrate pipelines.</p>
+                    <p>Familar with Big Data architecture for building distributed software platforms like <b>Apache Hadoop</b> and <b>Spark</b>. Utilized various open source technologies and cloud services to process the data efficiently and orchestrate pipelines.</p>
                 </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Analytics</h3>
-                    <p>Well versed with probability and statistical knowledge using Python and R as my goto tools to carry out data analysis on large datasets.</p>
+                    <p>Well versed with <b>Probability</b> and <b>Statistical</b> knowledge using Python and R as my goto tools to carry out data analysis on large datasets.</p>
                 </div>
                 </div>
             </div>
@@ -83,7 +83,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Cloud Technologies</h3>
-                    <p>Heavily used AWS platform to deploy data pipelines in cloud. Also, have some basic knowledge of GCP and it services in the data engineering space.</p>
+                    <p>Heavily used <b>AWS</b> platform to deploy data pipelines in cloud. Also, have some basic knowledge of <b>GCP</b> and it services in the data engineering space.</p>
                 </div>
                 </div>
             </div>
@@ -94,7 +94,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Vizualization</h3>
-                    <p>Used Tableau for most of my projects and Python Dash (Plotly) along with matplotlib and Rshiny.</p>
+                    <p>Used <b>Tableau</b> for most of my projects and <b>Python Dash (Plotly)</b> along with matplotlib and Rshiny.</p>
                 </div>
                 </div>
             </div>
