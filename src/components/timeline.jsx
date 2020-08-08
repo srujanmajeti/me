@@ -53,7 +53,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Master's Degree <span>Sep 2018 - May 2020</span></h2>
-                        <p>I have completed my Master's in <b>Data Analytics</b>  from <b>Northeastern University</b> with major subjects as Object-oriented programming, Computer organization and architecture, Computer Networks. During my time at school, I have developed interest in solving complex problems using technology which helped me to improve my analytical and problem solving skill.</p> 
+                        <p>I have completed my Master's in <b>Data Analytics</b>  from <b>Northeastern University</b> with major subjects as Parallel Data Processing, Data Management and Big data, Machine Learning and Probability and Statistics. My masters helped me not just handling the data also helped me understand to leverage it to solve real-time problems.</p> 
                       </div>
                     </div>
                   </article>
